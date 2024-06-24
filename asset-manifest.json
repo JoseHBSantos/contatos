@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//meuapp/static/css/main.db62923b.css",
+    "main.js": "//meuapp/static/js/main.9413bff6.js",
+    "index.html": "//meuapp/index.html",
+    "main.db62923b.css.map": "//meuapp/static/css/main.db62923b.css.map",
+    "main.9413bff6.js.map": "//meuapp/static/js/main.9413bff6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.9413bff6.js"
+  ]
+}
